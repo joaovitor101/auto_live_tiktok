@@ -1,0 +1,7 @@
+TikTokLive>=7.0.0
+google-genai
+elevenlabs
+sounddevice
+numpy
+soundfile
+python-dotenv
